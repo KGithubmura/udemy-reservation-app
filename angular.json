@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "udemy-reservation-app"
+    }
+  },
+  "defaultProject": "udemy-reservation-app",
+  "cli": {
+    "analytics": false
+  }
 }
